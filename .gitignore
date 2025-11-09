@@ -1,5 +1,5 @@
 .venv/
 .vscode/
 in/
-out/
+out*/
 **/*.DS_Store
